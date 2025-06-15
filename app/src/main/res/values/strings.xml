@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMussic</string>
+    <string name="desc_pause">Pause button</string>
+    <string name="desc_play">Play button</string>
+    <string name="desc_stop">Stop button</string>
+
+</resources>
